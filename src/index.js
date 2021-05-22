@@ -1,4 +1,4 @@
-//method 1:
+//Method 1:
 /*create variable called React set equal to require
 specify react module that's been installed as the module we require
 we're binding it to the react variable
