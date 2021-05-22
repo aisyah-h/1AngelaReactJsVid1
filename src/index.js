@@ -1,3 +1,4 @@
+//Additional notes in Notion app
 //Method 1:
 /*create variable called React set equal to require
 specify react module that's been installed as the module we require
